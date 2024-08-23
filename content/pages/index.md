@@ -6,14 +6,7 @@ sections:
     subtitle: About
     items:
       - type: FeaturedItem
-        title: >-
-          I am a Full-Stack Software Engineer and researcher at Technical
-          University of Cluj-Napoca. As a Computer Science graduate, currently
-          following a Master in Artificial Intelligence, I combine theoretical
-          knowledge with practical skills. I have an ambitious, responsible
-          nature and always tend to develop personally and professionally. I am
-          highly motivated to learn, to face challenges and I am open to new
-          experiences in order to increase my expertise.
+        title: About
         tagline: ''
         subtitle: >-
           I am a Full-Stack Software Engineer and researcher at Technical
