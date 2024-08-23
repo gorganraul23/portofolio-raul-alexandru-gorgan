@@ -14,7 +14,7 @@ sections:
           nature and always tend to develop personally and professionally. I am
           highly motivated to learn, to face challenges and I am open to new
           experiences in order to increase my expertise.
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
