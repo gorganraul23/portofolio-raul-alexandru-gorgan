@@ -20,7 +20,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Raul-Alexandru Gorgan
           styles:
             self:
               borderRadius: full
