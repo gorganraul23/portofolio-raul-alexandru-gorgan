@@ -19,7 +19,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Gorgan Raul - Alexandru_MG_4869.jpg
           altText: Raul-Alexandru Gorgan
           styles:
             self:
