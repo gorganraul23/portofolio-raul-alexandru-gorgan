@@ -96,8 +96,20 @@ sections:
         title: Tehnician
         tagline: ''
         subtitle: Technical University of Cluj-Napoca
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Researcher and developer in EMPOWER Project of type HORIZON.
+
+          -research and development for Educational and Health subjects.
+
+          -analyzing and implementing an educational platform used for children
+          with learning
+
+          disabilities.
+
+          -using Android, WearOS, Kotlin, Python, FastAPI, Unity, C#, React,
+          JavaScript.
+
+          -communicate with the rest of the team
         image:
           type: ImageBlock
           altText: Background alt text
