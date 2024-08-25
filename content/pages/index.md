@@ -72,7 +72,7 @@ sections:
       - type: FeaturedItem
         title: Software Engineer
         tagline: ''
-        subtitle: Technical University of Cluj-Napoca
+        subtitle: Christ Ciscon SRL
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
