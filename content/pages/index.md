@@ -130,6 +130,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            margin:
+              - mb-3
     actions: []
     variant: small-list
     colors: bg-neutral-fg-dark
