@@ -95,7 +95,7 @@ sections:
       - type: FeaturedItem
         title: Tehnician
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Technical University of Cluj-Napoca
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
