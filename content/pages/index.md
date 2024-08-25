@@ -45,7 +45,7 @@ sections:
         padding:
           - pt-10
       subtitle:
-        textAlign: justify
+        textAlign: left
         fontWeight: 500
   - title: Divider
     colors: bg-light-fg-dark
