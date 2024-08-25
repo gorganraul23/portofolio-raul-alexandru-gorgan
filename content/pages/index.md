@@ -46,7 +46,7 @@ sections:
           - pt-10
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 500
   - title: Divider
     colors: bg-light-fg-dark
     styles:
