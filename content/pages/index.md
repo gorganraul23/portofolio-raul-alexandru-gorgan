@@ -152,7 +152,7 @@ sections:
           - pr-8
         justifyContent: center
         margin:
-          - mt-8
+          - mt-0
       subtitle:
         textAlign: center
   - title: Divider
