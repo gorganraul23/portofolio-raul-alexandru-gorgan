@@ -118,7 +118,7 @@ sections:
       - type: FeaturedItem
         title: Full-Stack Software Developer
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: She Information Technology
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
