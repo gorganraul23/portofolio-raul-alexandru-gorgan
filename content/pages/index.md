@@ -6,7 +6,7 @@ sections:
     subtitle: About
     items:
       - type: FeaturedItem
-        title: About
+        title: Raul-Alexandru Gorgan
         tagline: ''
         subtitle: >-
           I am a Full-Stack Software Engineer and researcher at Technical
