@@ -43,7 +43,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-5
+          - pt-10
       subtitle:
         textAlign: center
   - title: Divider
