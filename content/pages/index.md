@@ -57,7 +57,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Skills
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
